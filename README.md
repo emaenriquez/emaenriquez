@@ -1,43 +1,95 @@
-<h1>👋 Hi, I’m @emaenriquez</h1>
+# emaenriquez 👋
 
-### :rabbit2: My stats:
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emaenriquez&show_icons=true&title_color=ffe0b5&text_color=8e724d&icon_color=bd8a84&bg_color=000000&hide_border=true&include_all_commits=true)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emaenriquez&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&stroke=000000&fire=bd8a84&currStreakNum=ffe0b5&sideNums=8e724d&sideLabels=8e724d&dates=bd8a84&ring=8e724d&currStreakLabel=ffe0b5)
-
-
-### :rabbit2: My languages and tools:
-<div>
-<img src="https://img.shields.io/badge/-HTML5-000000?logo=HTML5&logoColor=8e724d&style=flat&labelColor=000000" />
-<img src="https://img.shields.io/badge/-CSS3-000000?logo=CSS3&logoColor=8e724d&style=flat&labelColor=000000" />
-<img src="https://img.shields.io/badge/-JavaScript-000000?logo=JavaScript&logoColor=8e724d&style=flat&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Python-000000?logo=Python&logoColor=8e724d&style=flat&labelColor=000000" />
-<img src="https://img.shields.io/badge/-VS%20Code-000000?logo=Visual-Studio-Code&logoColor=8e724d&style=flat&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Sublime%20Text-000000?logo=Sublime-Text&logoColor=8e724d&style=flat&labelColor=000000" />
-
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
----
+</br>
+</br>
+</br>
 
-### :rabbit2: Samples of my work:
-[![lisa-thamer](https://img.shields.io/badge/-My%20portfolio-000000?logo=Bootstrap&logoColor=ffe0b5&style=flat&labelColor=000000)](https://emanuelenriquezportafolio.netlify.app/)
-[![fairyforest](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/fairyforest/)
 
----
+# About ME 💬 :
 
-### :rabbit2: Get in touch with me:
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?logo=Instagram&logoColor=8e724d&style=flat&labelColor=000000)](https://www.instagram.com/emanuel_enriquez17/)
----
-<!---
-<!---
-<!---
-emaenriquez/emaenriquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-[![fairyforest](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/fairyforest/)
-(https://www.instagram.com/enelya1988/)
-[![Facebook](https://img.shields.io/badge/-Facebook-000000?logo=Facebook&logoColor=8e724d&style=flat&labelColor=000000)](https://www.facebook.com/lisa.thamer.loves/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?logo=LinkedIn&logoColor=8e724d&style=flat&labelColor=000000)](https://www.linkedin.com/in/lisa-thamer)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=Twitter&logoColor=8e724d&style=flat&labelColor=000000)](https://twitter.com/CandidDeer)
+### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-### :rabbit2: Maintainer for:
-[![Contribute-To-This-Project](https://img.shields.io/badge/-Contribute%20to%20this%20Project-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://github.com/Syknapse/Contribute-To-This-Project)
---->
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+</br>
+</br>
+</br>
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:emaenriquez1985@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/emaenrquez">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://www.reddit.com/user/X_Ashutosh_X">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198182224539/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+*************
